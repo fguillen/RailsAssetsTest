@@ -21,3 +21,13 @@ And you can see the icons like in [here](https://raw.github.com/fguillen/RailsAs
 
 No icons and `404` error like in [here](https://raw.github.com/fguillen/RailsAssetsTest/master/etc/production_icons.png)
 
+## How to solve it
+
+Check the answer:
+
+* http://stackoverflow.com/a/12239146/316700
+
+And in the `testing` branch of this repository you'll find the commit that solves the issue:
+
+* https://github.com/fguillen/RailsAssetsTest/commit/7330bf9a6ab71d6c7c39f40fecd39fbd5c204f6c
+
